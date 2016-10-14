@@ -11,7 +11,7 @@
 #include <string.h>
 
 #define INIT_VALUE1 10
-#define INIT_VALUE2 10
+#define INIT_VALUE2 122
 
 int ht12_pins[4];
 int ht12_unit_interval;
